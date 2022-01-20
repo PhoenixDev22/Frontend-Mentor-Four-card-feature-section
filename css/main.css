@@ -201,4 +201,7 @@ a:focus-visible{
         flex-direction: column;
         flex: 1 1 100%;  
     }
+      main .card .card__description{
+        font-size: 0.938rem;
+    }
 }
