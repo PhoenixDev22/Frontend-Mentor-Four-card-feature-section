@@ -187,7 +187,7 @@ a:focus-visible{
         padding:4.86rem 1.5rem ;
     }
     main{
-        max-width: 75rem;
+        max-width: 87.5rem;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -199,6 +199,6 @@ a:focus-visible{
         align-items: center;
         justify-content: center;
         flex-direction: column;
-        flex: 1 1 100%;     
+        flex: 1 1 100%;  
     }
 }
