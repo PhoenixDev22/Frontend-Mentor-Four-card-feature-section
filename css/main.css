@@ -176,7 +176,7 @@ a:focus-visible{
     main .card{
         min-height: 15.625rem;
         min-width: 100%;
-        max-width:26.875rem;
+        max-width:25.875rem;
         flex: 1 1 100%; 
         margin:0;
     }
@@ -187,7 +187,7 @@ a:focus-visible{
         padding:4.86rem 1.5rem ;
     }
     main{
-        max-width: 87.5rem;
+        max-width: 75rem;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -201,7 +201,7 @@ a:focus-visible{
         flex-direction: column;
         flex: 1 1 100%;  
     }
-      main .card .card__description{
+    main .card .card__description{
         font-size: 0.938rem;
     }
 }
